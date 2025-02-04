@@ -1,0 +1,1 @@
+game:GetService("StarterGui"):SetCore("SendNotification",{ Title = "YSX脚本"; Text ="跑路咯兄弟"; Duration = 10; })
